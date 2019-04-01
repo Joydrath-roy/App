@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Smart Attendance</string>
+    <string name="Straininig">Training...</string>
+    <string name="s1">Who are you going to train?</string>
+    <string name="s2">Please enter the same name for the same person everytime you train that person</string>
+</resources>
