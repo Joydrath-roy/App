@@ -164,7 +164,7 @@ public class Recognize extends AppCompatActivity implements CameraBridgeViewBase
         mOpenCvCameraView = (TutorialView) findViewById(R.id.tutorial3_activity_java_surface_view);
         mOpenCvCameraView.setCvCameraViewListener(this);
 
-        mPath = Environment.getExternalStorageDirectory()+"/Smart Attendace/";
+        mPath = Environment.getExternalStorageDirectory()+"/Smart Attendance/";
 
         Log.e("Path", mPath);
 
