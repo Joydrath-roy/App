@@ -14,7 +14,7 @@ import java.util.List;
 
 public class TutorialView extends JavaCameraView {
 
-    private static final String TAG = "Sample::Tutorial3View";
+    private static final String TAG = "Sample::TutorialView";
 
     public TutorialView(Context context, AttributeSet attrs) {
         super(context, attrs);

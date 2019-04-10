@@ -34,12 +34,12 @@ public class MainActivity extends AppCompatActivity {
             */
 
 
-        Toolbar toolbar = findViewById(R.id.app_bar);
+        //Toolbar toolbar = findViewById(R.id.app_bar);
         //setSupportActionBar(toolbar);
 
-        if(getSupportActionBar() != null) {
+        /*if(getSupportActionBar() != null) {
             getSupportActionBar().setTitle("Smart Attendance");
-        }
+        }*/
 
         Button recognizeButton = (Button) findViewById(R.id.recognizerbutt);
         Button trainingButton = (Button) findViewById(R.id.student_entry);
